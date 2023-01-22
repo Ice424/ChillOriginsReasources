@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/cracked_nether_bricks"
+  },
+    "overrides": [
+      {"predicate": {"custom_model_data":1}, "model": "block/custom/car"}
+  ]
+}
