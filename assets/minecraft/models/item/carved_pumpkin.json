@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "minecraft:block/carved_pumpkin",
+    "side": "minecraft:block/pumpkin_side",
+    "top": "minecraft:block/pumpkin_top"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "block/custom/car"},
+    {"predicate": {"custom_model_data":2}, "model": "block/custom/traffic_cone"},
+    {"predicate": {"custom_model_data":3}, "model": "block/custom/frost_helmet"}
+  ]
+}

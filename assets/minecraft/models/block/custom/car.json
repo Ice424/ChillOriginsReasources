@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/custom/lambo_new",
+		"0": "block/custom/lambonew",
 		"1": "block/custom/glass",
-		"particle": "block/custom/lambo_new"
+		"particle": "block/custom/lambonew"
 	},
 	"elements": [
 		{
@@ -2275,8 +2275,9 @@
 			"translation": [12.25, -4.75, -18.25]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-11, -180, -21],
-			"translation": [8, -2, -25]
+			"rotation": [0, -180, 0],
+			"translation": [-15, 4.25, 6.5],
+			"scale": [1.4, 1.4, 1.4]
 		},
 		"ground": {
 			"scale": [0.5, 0.5, 0.5]
@@ -2289,7 +2290,7 @@
 		"head": {
 			"rotation": [0, -180, 0],
 			"translation": [18, -15, 0],
-			"scale": [4.5, 4.5, 4.5]
+			"scale": [4.5, 4.5, 4]
 		},
 		"fixed": {
 			"rotation": [0, 90, 0],
