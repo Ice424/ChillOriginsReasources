@@ -2,7 +2,14 @@
     "tumtum.freebird.play": {
         "sounds": [
             {
-            "name": "freebird"
+                "name": "freebird"
+            }
+        ]
+    },
+    "banan.stuka.play": {
+        "sounds": [
+            {
+                "name": "stuka"
             }
         ]
     }
